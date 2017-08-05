@@ -1,0 +1,1 @@
+Examples of encoding unicode codepoints. May use for fuzzing purposes.
